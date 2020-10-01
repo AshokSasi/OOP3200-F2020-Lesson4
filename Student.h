@@ -34,7 +34,7 @@ void Studies() const;
 std::string ToString() override;
 	
 private:
-std::string m_student_ID;
+std::string m_studentID;
 };
 
 #endif //_STUDENT_H

@@ -20,7 +20,7 @@ public:
  */
 	
  Person(std::string firstName, std::string lastName, float age);
-    
+
 float getAge() const;
     
 /**

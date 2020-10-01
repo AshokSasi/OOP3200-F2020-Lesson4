@@ -45,6 +45,7 @@ void setLastName(const std::string& value);
 void SaysHello() const;
     
 virtual std::string ToString();
+	
 private: 
     float m_age;
     std::string m_firstName;

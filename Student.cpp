@@ -55,6 +55,8 @@ void Student::Studies() const
  */
 std::string Student::ToString()
 {
+
+
     std::string output_string;
     output_string += Person::ToString();
     output_string += "-------------------------------------------\n";
